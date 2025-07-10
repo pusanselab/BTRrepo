@@ -1,0 +1,140 @@
+[
+  {
+    "assetid": "52",
+    "from": "0x136348694b29047924ddff3eefaa413ba8f4b0b0",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "27",
+    "from": "0xd781a45c6792a264455aef6afb0fd7a4957c9686",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "70",
+    "from": "0x7a49f51fb552c4f2878de4dbcab761bbc35a3d8f",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "98",
+    "from": "0x1ef91a545cf10da3f13da8628bf76653aadfbd73",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "84",
+    "from": "0x7a49f51fb552c4f2878de4dbcab761bbc35a3d8f",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "20",
+    "from": "0xa858c9128677123d4b01827b34dd0b2b44252559",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "54",
+    "from": "0xae46abb2eb7251f7869b9b7714df0127b8162f83",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "39",
+    "from": "0x7a49f51fb552c4f2878de4dbcab761bbc35a3d8f",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "33",
+    "from": "0xa858c9128677123d4b01827b34dd0b2b44252559",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "35",
+    "from": "0x7a49f51fb552c4f2878de4dbcab761bbc35a3d8f",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "31",
+    "from": "0x1ef91a545cf10da3f13da8628bf76653aadfbd73",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "13",
+    "from": "0xf2761fcf98194559082d5b99e9601223450d9e9b",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "19",
+    "from": "0x136348694b29047924ddff3eefaa413ba8f4b0b0",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "53",
+    "from": "0xf2761fcf98194559082d5b99e9601223450d9e9b",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "82",
+    "from": "0xf4cf212abcac3e20e0a833d763466c0f4775e107",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "21",
+    "from": "0xd781a45c6792a264455aef6afb0fd7a4957c9686",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "25",
+    "from": "0x136348694b29047924ddff3eefaa413ba8f4b0b0",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "71",
+    "from": "0x136348694b29047924ddff3eefaa413ba8f4b0b0",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "createAsset"
+  },
+  {
+    "assetid": "1",
+    "from": "0x4df99dca12797c685b720937a4b3611e9bae2585",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "66",
+    "from": "0x4df99dca12797c685b720937a4b3611e9bae2585",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "48",
+    "from": "0xa858c9128677123d4b01827b34dd0b2b44252559",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "updateAsset"
+  },
+  {
+    "assetid": "21",
+    "from": "0xf4cf212abcac3e20e0a833d763466c0f4775e107",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "deleteAsset"
+  },
+  {
+    "assetid": "83",
+    "from": "0xa858c9128677123d4b01827b34dd0b2b44252559",
+    "to": "0xbf4109db95839d4577794e06ef5f4fd10d09e890",
+    "method": "updateAsset"
+  }
+]

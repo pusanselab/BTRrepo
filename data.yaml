@@ -1,0 +1,22 @@
+ethereum:
+  order:
+    - name: customer
+      type: string
+    - name: seller
+      type: string
+    - name: productName
+      type: string
+    - name: quantity
+      type
+address customer;
+        address seller;
+        string productName;
+        uint256 quantity;
+        uint256 price;
+        bool isFulfilled;
+hlf:
+  code_permission:
+    - name: approvement
+      type: bool
+    - name: approver
+      type: string
